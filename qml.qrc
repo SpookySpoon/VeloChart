@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StockChart.qml</file>
+        <file>StockView.qml</file>
+        <file>StockModel.qml</file>
+        <file>StaticFunctions.qml</file>
+    </qresource>
+</RCC>
